@@ -1,254 +1,322 @@
 [
- {
-   "flavor": " à la morve de troll"
- },
- {
-   "flavor": " à la poudre de piment"
- },
- {
-   "flavor": " à la tarte aux myrtilles"
- },
- {
-   "flavor": " Amandes"
- },
- {
-   "flavor": " Aubergine"
- },
- {
-   "flavor": " Bacon"
- },
- {
-   "flavor": " Banane"
- },
- {
-   "flavor": " Barbe à papa"
- },
- {
-   "flavor": " Bouillabaisse"
- },
- {
-   "flavor": " Brocolis"
- },
- {
-   "flavor": " Café"
- },
- {
-   "flavor": " Cannelle"
- },
- {
-   "flavor": " Caramel"
- },
- {
-   "flavor": " Caramel au beurrz"
- },
- {
-   "flavor": " Cerise"
- },
- {
-   "flavor": " Champignons"
- },
- {
-   "flavor": " Chaussettes sales"
- },
- {
-   "flavor": " Chewing-gum "
- },
- {
-   "flavor": " Chocolat"
- },
- {
-   "flavor": " Chou à la crème"
- },
- {
-   "flavor": " Choux trop cuit"
- },
- {
-   "flavor": " Choux-fleur"
- },
- {
-   "flavor": " Cire d'oreille "
- },
- {
-   "flavor": " Citron"
- },
- {
-   "flavor": " Citron vert"
- },
- {
-   "flavor": " Citrouille"
- },
- {
-   "flavor": " Confiture"
- },
- {
-   "flavor": " Cornichon"
- },
- {
-   "flavor": " Crevette"
- },
- {
-   "flavor": " Crotte de nez"
- },
- {
-   "flavor": " Curry"
- },
- {
-   "flavor": " éclair"
- },
- {
-   "flavor": " Épinards "
- },
- {
-   "flavor": " Foie"
- },
- {
-   "flavor": " Foie et tripes"
- },
- {
-   "flavor": " Fraise"
- },
- {
-   "flavor": " Fromage"
- },
- {
-   "flavor": " Gelée de raisins"
- },
- {
-   "flavor": " Glace fraise et beurre de cacahuète"
- },
- {
-   "flavor": " Glue"
- },
- {
-   "flavor": " Haricots blancs"
- },
- {
-   "flavor": " Herbe"
- },
- {
-   "flavor": " Homard"
- },
- {
-   "flavor": " Jambon"
- },
- {
-   "flavor": " Limonade"
- },
- {
-   "flavor": " Lotion"
- },
- {
-   "flavor": " Marshmallow"
- },
- {
-   "flavor": " Menthe"
- },
- {
-   "flavor": " Menthe poivrée"
- },
- {
-   "flavor": " Moules"
- },
- {
-   "flavor": " Myrtille"
- },
- {
-   "flavor": " Noix de coco"
- },
- {
-   "flavor": " Nourriture pour chien"
- },
- {
-   "flavor": " OEuf pourri"
- },
- {
-   "flavor": " Olive"
- },
- {
-   "flavor": " Orange"
- },
- {
-   "flavor": " Pamplemousse"
- },
- {
-   "flavor": " Pastèque"
- },
- {
-   "flavor": " Peluche de nombril"
- },
- {
-   "flavor": " Piment"
- },
- {
-   "flavor": " Poivre"
- },
- {
-   "flavor": " Poivre noir"
- },
- {
-   "flavor": " Pomme de terre"
- },
- {
-   "flavor": " Pomme verte"
- },
- {
-   "flavor": " Popcorn"
- },
- {
-   "flavor": " Poubelle"
- },
- {
-   "flavor": " Poulet"
- },
- {
-   "flavor": " Ragoût de boeuf"
- },
- {
-   "flavor": " Sang de gobelin"
- },
- {
-   "flavor": " Sardine"
- },
- {
-   "flavor": " Saucisse"
- },
- {
-   "flavor": " Saumon"
- },
- {
-   "flavor": " Savon"
- },
- {
-   "flavor": " Soufre"
- },
- {
-   "flavor": " Terre"
- },
- {
-   "flavor": " Toast grillé"
- },
- {
-   "flavor": " Tomate"
- },
- {
-   "flavor": " Tripes"
- },
- {
-   "flavor": " Tutti-Frutti"
- },
- {
-   "flavor": " Ver de terre"
- },
- {
-   "flavor": " Vomi"
- },
- {
-   "flavor": " Xérès"
- },
- {
-   "flavor": "Chou de Bruxelles"
- },
- {
-   "flavor": "Violette"
- }
+  {
+    "flavor": "à la morve de troll",
+    "color": "#90947D"
+  },
+  {
+    "flavor": "à la poudre de piment",
+    "color": "#A13133"
+  },
+  {
+    "flavor": "à la tarte aux myrtilles",
+    "color": "#556F98"
+  },
+  {
+    "flavor": "Amandes",
+    "color": "#E78F38"
+  },
+  {
+    "flavor": "Aubergine",
+    "color": "#562E4F"
+  },
+  {
+    "flavor": "Bacon",
+    "color": "#C75745"
+  },
+  {
+    "flavor": "Banane",
+    "color": "#E9C913"
+  },
+  {
+    "flavor": "Barbe à papa",
+    "color": "#F8D1DF"
+  },
+  {
+    "flavor": "Bouillabaisse",
+    "color": "#D77409"
+  },
+  {
+    "flavor": "Brocolis",
+    "color": "#8DB152"
+  },
+  {
+    "flavor": "Café",
+    "color": "#764928"
+  },
+  {
+    "flavor": "Cannelle",
+    "color": "#B05615"
+  },
+  {
+    "flavor": "Caramel",
+    "color": "#EDBD89"
+  },
+  {
+    "flavor": "Caramel au beurre salé",
+    "color": "#F5BD66"
+  },
+  {
+    "flavor": "Cerise",
+    "color": "#BE0530"
+  },
+  {
+    "flavor": "Champignons",
+    "color": "#CFB79D"
+  },
+  {
+    "flavor": "Chaussettes sales",
+    "color": "#837B72"
+  },
+  {
+    "flavor": "Chewing-gum",
+    "color": "#FB90AC"
+  },
+  {
+    "flavor": "Chocolat",
+    "color": "#7B4F49"
+  },
+  {
+    "flavor": "Chou à la crème",
+    "color": "#E4DAC6"
+  },
+  {
+    "flavor": "Choux trop cuit",
+    "color": "#B8CBAE"
+  },
+  {
+    "flavor": "Choux-fleur",
+    "color": "#2A4413"
+  },
+  {
+    "flavor": "Cire d'oreille",
+    "color": "#E7BE3C"
+  },
+  {
+    "flavor": "Citron",
+    "color": "#F6DC5A"
+  },
+  {
+    "flavor": "Citron vert",
+    "color": "#97CE21"
+  },
+  {
+    "flavor": "Citrouille",
+    "color": "#F79704"
+  },
+  {
+    "flavor": "Confiture",
+    "color": "#6E0411"
+  },
+  {
+    "flavor": "Cornichon",
+    "color": "#9F9E38"
+  },
+  {
+    "flavor": "Crevette",
+    "color": "#F3D3C3"
+  },
+  {
+    "flavor": "Crotte de nez",
+    "color": "#B7A75E"
+  },
+  {
+    "flavor": "Curry",
+    "color": "#D89C13"
+  },
+  {
+    "flavor": "éclair",
+    "color": "#F1BD5C"
+  },
+  {
+    "flavor": "Épinards",
+    "color": "#7B9763"
+  },
+  {
+    "flavor": "Foie",
+    "color": "#86362C"
+  },
+  {
+    "flavor": "Foie et tripes",
+    "color": "#F29D66"
+  },
+  {
+    "flavor": "Fraise",
+    "color": "#CB0100"
+  },
+  {
+    "flavor": "Fromage",
+    "color": "#F3E6C1"
+  },
+  {
+    "flavor": "Gelée de raisins",
+    "color": "#8F3F6A"
+  },
+  {
+    "flavor": "Glace fraise et beurre de cacahuète",
+    "color": "#CA7454"
+  },
+  {
+    "flavor": "Glue",
+    "color": "#E1ECEC"
+  },
+  {
+    "flavor": "Haricots blancs",
+    "color": "#E3E0D1"
+  },
+  {
+    "flavor": "Herbe",
+    "color": "#7BAA26"
+  },
+  {
+    "flavor": "Homard",
+    "color": "#E9401D"
+  },
+  {
+    "flavor": "Jambon",
+    "color": "#CA8E8F"
+  },
+  {
+    "flavor": "Limonade",
+    "color": "#D9D6A0"
+  },
+  {
+    "flavor": "Lotion",
+    "color": "#EDE7DA"
+  },
+  {
+    "flavor": "Marshmallow",
+    "color": "#F4E7E5"
+  },
+  {
+    "flavor": "Menthe",
+    "color": "#6F965C"
+  },
+  {
+    "flavor": "Menthe poivrée",
+    "color": "#80BA8B"
+  },
+  {
+    "flavor": "Moules",
+    "color": "#E8D165"
+  },
+  {
+    "flavor": "Myrtille",
+    "color": "#5F76A9"
+  },
+  {
+    "flavor": "Noix de coco",
+    "color": "#EFF1F6"
+  },
+  {
+    "flavor": "Nourriture pour chien",
+    "color": "#823C1A"
+  },
+  {
+    "flavor": "OEuf pourri",
+    "color": "#B5B4AF"
+  },
+  {
+    "flavor": "Olive",
+    "color": "#BDAF51"
+  },
+  {
+    "flavor": "Orange",
+    "color": "#F86301"
+  },
+  {
+    "flavor": "Pamplemousse",
+    "color": "#EC555B"
+  },
+  {
+    "flavor": "Pastèque",
+    "color": "#F03535"
+  },
+  {
+    "flavor": "Peluche de nombril",
+    "color": "#E2C099"
+  },
+  {
+    "flavor": "Pomme de terre",
+    "color": "#E5C87D"
+  },
+  {
+    "flavor": "Pomme verte",
+    "color": "#CEE166"
+  },
+  {
+    "flavor": "Popcorn",
+    "color": "#EFBF51"
+  },
+  {
+    "flavor": "Poubelle",
+    "color": "#ADAEB3"
+  },
+  {
+    "flavor": "Poulet",
+    "color": "#EE9C55"
+  },
+  {
+    "flavor": "Ragoût de boeuf",
+    "color": "#96470C"
+  },
+  {
+    "flavor": "Sang de gobelin",
+    "color": "#632513"
+  },
+  {
+    "flavor": "Sardine",
+    "color": "#BEC3BC"
+  },
+  {
+    "flavor": "Saucisse",
+    "color": "#C5827A"
+  },
+  {
+    "flavor": "Saumon",
+    "color": "#DC6331"
+  },
+  {
+    "flavor": "Savon",
+    "color": "#8FCCB8"
+  },
+  {
+    "flavor": "Soufre",
+    "color": "#E4CD48"
+  },
+  {
+    "flavor": "Terre",
+    "color": "#B39575"
+  },
+  {
+    "flavor": "Toast grillé",
+    "color": "#C38953"
+  },
+  {
+    "flavor": "Tomate",
+    "color": "#E93100"
+  },
+  {
+    "flavor": "Tutti-Frutti",
+    "color": "#9B2939"
+  },
+  {
+    "flavor": "Ver de terre",
+    "color": "#BC978C"
+  },
+  {
+    "flavor": "Vomi",
+    "color": "#B1863E"
+  },
+  {
+    "flavor": "Xérès",
+    "color": "#343338"
+  },
+  {
+    "flavor": "Chou de Bruxelles",
+    "color": "#B2B037"
+  },
+  {
+    "flavor": "Violette",
+    "color": "#4B3A7F"
+  }
 ]

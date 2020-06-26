@@ -14,10 +14,11 @@ module.exports = {
 		}
 		const randomInt = getRandomInt(ChocoFrogs.length);
 
-		const cardName = ChocoFrogs[randomInt].nom;
+		const cardName = ChocoFrogs[randomInt].name;
 		const cardDescription = ChocoFrogs[randomInt].description;
-		const cardTitle = ChocoFrogs[randomInt].titre;
+		const cardTitle = ChocoFrogs[randomInt].title;
 		const cardDate = ChocoFrogs[randomInt].date;
+		const cardNumber = ChocoFrogs[randomInt].number;
 
 		const canvas = Canvas.createCanvas(500, 500);
 		const drawMultilineText = require('canvas-multiline-text');
@@ -32,7 +33,7 @@ module.exports = {
 		ctx.font = '18px serif';
 		ctx.fillStyle = '#ffffff';
 		ctx.textAlign = 'center';
-		ctx.fillText('313', 250, 70, 75);
+		ctx.fillText(cardNumber, 250, 70, 75);
 		ctx.fillText(cardName, 250, 200, 140);
 		ctx.fillText(cardTitle, 250, 215, 150);
 		ctx.fillText(cardDate, 250, 230, 150);
@@ -53,7 +54,7 @@ module.exports = {
 				maxFontSize: 24
 			});
 
-		const attachment = new Discord.MessageAttachment(canvas.toBuffer(), 'welcome-image.png');
+		const attachment = new Discord.MessageAttachment(canvas.toBuffer(), 'carteChocoGrenouille.png');
 		// message.channel.send(`carte chocogrenouille `, attachment);
 		message.channel.send('Cool ! une carte chocogrenouille ' + cardName, attachment);
 	}
