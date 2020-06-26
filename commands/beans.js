@@ -4,6 +4,8 @@ const Discord = require('discord.js')
 
 module.exports = {
 	name: 'beans',
+	aliases: ['jellybean', 'dragée'],
+	cooldown: 5,
 	description: 'eat a jellybean',
 	args: false,
 	async execute(message, args) {
