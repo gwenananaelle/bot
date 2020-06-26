@@ -1,0 +1,776 @@
+[
+  {
+    "nom": "Adalbert Waffling",
+    "titre": "",
+    "date": "1899 - 1981",
+    "description": "Famous magical theoretician. This famous thinker wrote all about magic. Every modern witch and wizard has learned from his writings."
+  },
+  {
+    "nom": "Alberic Grunnion",
+    "titre": "",
+    "date": "1803 - 1882",
+    "description": "Inventor of the Dungbomb."
+  },
+  {
+    "nom": "Alberta Toothill",
+    "titre": "",
+    "date": "1391 - 1483",
+    "description": "Winner of the All-England Wizarding Duelling Competition of 1430. Famously overcame the favorite, Samson Wiblin, with a Blasting Curse."
+  },
+  {
+    "nom": "Albus Dumbledore",
+    "titre": "",
+    "date": "1881-1997",
+    "description": "Headmaster of Hogwarts, renowned as the greatest sorcerer of the present age."
+  },
+  {
+    "nom": "Alguff the Awful",
+    "titre": "",
+    "date": "",
+    "description": "Foul-smelling goblin nuisance. Well known throughout the goblin world for trying to sell vials of his sweat to a Dungbomb manufacturer."
+  },
+  {
+    "nom": "Almerick Sawbridge",
+    "titre": "",
+    "date": "1602 - 1699",
+    "description": "Famous for conquering the river troll that was terrorizing crossers of the Wye River."
+  },
+  {
+    "nom": "Amarillo Lestoat",
+    "titre": "",
+    "date": "1776-1977.",
+    "description": "Flamboyant American vampire. Author of A Vampire's Monologue - intended to bore the reader into a stupor making him/her easier prey for vampires."
+  },
+  {
+    "nom": "Andros the Invincible",
+    "titre": "",
+    "date": "",
+    "description": "Ancient Greek, dates unknown"
+  },
+  {
+    "nom": "Archibald Alderton",
+    "titre": "",
+    "date": "1568 - 1623",
+    "description": "Famous for blowing up the hamlet of Little Dropping in Hampshire while attempting to magically mix a birthday cake."
+  },
+  {
+    "nom": "Artemisia Lufkin",
+    "titre": "",
+    "date": "1754 - 1825",
+    "description": "First witch to become Minister for Magic."
+  },
+  {
+    "nom": "Babayaga",
+    "titre": "",
+    "date": "Medieval, dates unknown.",
+    "description": "Russian hag who dwelled in a hut that stood on giant chicken legs. Ate children for breakfast - and presumably for lunch and tea."
+  },
+  {
+    "nom": "Balfour Bane",
+    "titre": "",
+    "date": "1566 - 1629",
+    "description": "Established the Committee on Experimental Charms."
+  },
+  {
+    "nom": "Barberus Bragge",
+    "titre": "",
+    "date": "",
+    "description": "Introduced the Golden Snidget into Quidditch in 1269, changing the face of the game forever."
+  },
+  {
+    "nom": "Beatrix Bloxam",
+    "titre": "",
+    "date": "1794 - 1810",
+    "description": "Author of Toadstool Tales, a series of children's books since banned because they have been found to cause nausea and vomiting."
+  },
+  {
+    "nom": "Beaumont Marjoribanks",
+    "titre": "Herbology Specialist",
+    "date": "1742 - 1845",
+    "description": "Pioneer of Herbology and collector of many rare and magical flowers, including underwater varieties. Discovered Gillyweed."
+  },
+  {
+    "nom": "Bertie Bott",
+    "titre": "Inventor",
+    "date": "1935 - present",
+    "description": "Bertie Bott's Every Flavor Beans were created by him quite by mistake. His original purpose was to create tasty candies from food. He accidentally included a pair of dirty socks in his experiment!"
+  },
+  {
+    "nom": "Blenheim Stalk",
+    "titre": "",
+    "date": "",
+    "description": "Muggle expert and author of many books, including Muggles Who Notice, a study of Muggle awareness of magic."
+  },
+  {
+    "nom": "Blodwyn Bludd",
+    "titre": "",
+    "date": "1923 - Unknown.",
+    "description": "Known as the \"vampire from the Valleys\". Famous for singing to his victims in a sonorous bass baritone, before biting their necks."
+  },
+  {
+    "nom": "Bowman Wright",
+    "titre": "Metal Charmer",
+    "date": "1492 - 1560",
+    "description": "Mother was a witch, and father was a Muggle. He is famous for combining his loves of magic, science, and sports by creating the Golden Snitch, which greatly improved the game of Quidditch."
+  },
+  {
+    "nom": "Bran the Bloodthirsty",
+    "titre": "",
+    "date": "Medieval, dates unknown.",
+    "description": "Lived in a castle on top of an enchanted Beanstalk. Apparently fond of eating bread made with ground bones and washed down with the blood of an Englishman. Was slain by a boy named Jack."
+  },
+  {
+    "nom": "Bridget Wenlock",
+    "titre": "",
+    "date": "1202 - 1285",
+    "description": "Famous Arithmancer. First to establish the magical properties of the number seven."
+  },
+  {
+    "nom": "Burdock Muldoon",
+    "titre": "",
+    "date": "1429 - 1490",
+    "description": "Chief of Wizards' Council (1448 - 1450)."
+  },
+  {
+    "nom": "Carlotta Pinkstone",
+    "titre": "",
+    "date": "1922 - present",
+    "description": "Famous campaigner for lifting the International Confederation of Wizards' Statute of Secrecy and telling Muggles that wizards exist."
+  },
+  {
+    "nom": "Cassandra Vablatsky",
+    "titre": "",
+    "date": "1894 - 1997",
+    "description": "Celebrated Seer and author of Unfogging the Future."
+  },
+  {
+    "nom": "Celestina Warbeck",
+    "titre": "",
+    "date": "1917 - present",
+    "description": "Popular singing sorceress."
+  },
+  {
+    "nom": "Chauncey Oldridge",
+    "titre": "",
+    "date": "1342 - 1379",
+    "description": "First known victim of Dragon Pox."
+  },
+  {
+    "nom": "Circe",
+    "titre": "Ancient Greek",
+    "date": "dates unknown",
+    "description": "Lived on the island of Aeaea. Expert at turning lost sailors into pigs."
+  },
+  {
+    "nom": "Claudius Ptolemy",
+    "titre": "",
+    "date": "85 – unknown",
+    "description": ""
+  },
+  {
+    "nom": "Cliodne",
+    "titre": "Bird Animagus",
+    "date": "Medieval, dates unknown",
+    "description": "The beautiful Irish druidess Cliodne had three magical birds that sang the sick to sleep and cured them. Legends say that she could take the shape of a sea bird or change into a wave. Her favorite hobby was flying. She discovered the properties of moondew."
+  },
+  {
+    "nom": "Cordelia Misericordia",
+    "titre": "",
+    "date": "1298-1401.",
+    "description": "Hag representative at 14th century summit of the Wizards' Council."
+  },
+  {
+    "nom": "Cornelius Agrippa",
+    "titre": "Author",
+    "date": "1486 - 1535",
+    "description": "Celebrated wizard imprisoned by Muggles for his writing, because they thought his books were evil."
+  },
+  {
+    "nom": "Count Vlad Drakul",
+    "titre": "",
+    "date": "1390 - Unknown.",
+    "description": "Notorious vampire who inspired the fictional Count Dracula created by Bram Stoker. Father of Vlad the Impaler."
+  },
+  {
+    "nom": "Crispin Cronk",
+    "titre": "",
+    "date": "1795 - 1872",
+    "description": "Sent to Azkaban for continuing to keep sphinxes in his back garden despite repeated warnings."
+  },
+  {
+    "nom": "Cyclops",
+    "titre": "",
+    "date": "Ancient Greek, dates unknown.",
+    "description": "A one-eyed giant who lived in a cave at the foot of Mount Etna. With the help of several sheep, was slain by the Greek hero Odysseus."
+  },
+  {
+    "nom": "Cyprian Youdle",
+    "titre": "",
+    "date": "1312 - 1357",
+    "description": "Only Quidditch referee ever to die during a match. The originator of the curse was never caught but believed to have been a member of the crowd."
+  },
+  {
+    "nom": "Daisy Dodderidge",
+    "titre": "Tavern Keeper",
+    "date": "1467 - 1555",
+    "description": "Daisy Dodderidge built the Leaky Cauldron inn to serve as a gateway between the non-wizarding world and Diagon Alley. Wizards and witches of her day loved her generosity and the welcoming atmosphere of her pub."
+  },
+  {
+    "nom": "Derwent Shimpling",
+    "titre": "Comedian",
+    "date": "1912 - present",
+    "description": "Ate an entire Venomous Tentacula for a bet and survived, though still purple. Wizards and witches everywhere love his silly sense of humor and his boldness."
+  },
+  {
+    "nom": "Devlin Whitehorn",
+    "titre": "Inventor",
+    "date": "1945 - present",
+    "description": "Founder of the Nimbus Racing Broom Company in 1967. He helped design Nimbus brooms, which revolutionized the game of Quidditch. An expert flyer, he is an avid Quidditch fan who enjoys watching or playing games whenever he can."
+  },
+  {
+    "nom": "Donaghan Tremlett",
+    "titre": "Entertainer",
+    "date": "1972 - present",
+    "description": "Bass player with the popular wizarding band The Weird Sisters. Muggle-born, Donaghan is a big fan of the Quidditch team called the Kenmare Kestrels."
+  },
+  {
+    "nom": "Dorcas Wellbeloved",
+    "titre": "",
+    "date": "1812 - 1904",
+    "description": "Founder of the Society for Distressed Witches."
+  },
+  {
+    "nom": "Dunbar Oglethorpe",
+    "titre": "",
+    "date": "1968 - present",
+    "description": "Chief of Q.U.A.B.B.L.E. (Quidditch Union for the Administration and Betterment of the British League and its Endeavours)."
+  },
+  {
+    "nom": "Dymphna Furmage",
+    "titre": "",
+    "date": "1612 - 1698",
+    "description": "Famously abducted by pixies while on vacation in Cornwall, she lived in mortal dread of them thereafter."
+  },
+  {
+    "nom": "Dzou Yen",
+    "titre": "Chinese Alchemist.",
+    "date": "4th Century B.C.",
+    "description": ""
+  },
+  {
+    "nom": "Eargit the Ugly",
+    "titre": "",
+    "date": "",
+    "description": "Goblin representative at 14th century summit of the Wizards' Council."
+  },
+  {
+    "nom": "Edgar Cloggs",
+    "titre": "",
+    "date": "",
+    "description": "Ghost who has been hanging around the (Hogwarts) Quidditch Pitch as long as anyone can remember. Edgar was obviously a pretty good player in his day."
+  },
+  {
+    "nom": "Edgar Stroulger",
+    "titre": "",
+    "date": "1703 - 1798",
+    "description": "Inventor of the Sneakoscope."
+  },
+  {
+    "nom": "Elfrida Clagg",
+    "titre": "",
+    "date": "1612 - 1687",
+    "description": "Chieftainess of Warlock's Council."
+  },
+  {
+    "nom": "Elladora Ketteridge",
+    "titre": "",
+    "date": "1656 - 1729",
+    "description": "Witch who discovered the use of Gillyweed when she nearly suffocated after eating it and recovered only when she stuck her head into a bucket of water."
+  },
+  {
+    "nom": "Ethelred the Ever-Ready",
+    "titre": "",
+    "date": "Medieval, dates unknown",
+    "description": "Famous for taking offense at nothing and cursing innocent bystanders. Died in jail."
+  },
+  {
+    "nom": "Falco Aesalon",
+    "titre": "",
+    "date": "Ancient Greek",
+    "description": "The first recorded example of an Animagus, he could transform himself into a falcon."
+  },
+  {
+    "nom": "Famous Witches and Wizards Trading Cards",
+    "titre": "",
+    "date": "",
+    "description": ""
+  },
+  {
+    "nom": "Felix Summerbee",
+    "titre": "",
+    "date": "1447 - 1508",
+    "description": "Inventor of Cheering Charms."
+  },
+  {
+    "nom": "Flavius Belby",
+    "titre": "",
+    "date": "1715 - 1791",
+    "description": "Only wizard ever to survive a Lethifold attack."
+  },
+  {
+    "nom": "Fulbert the Fearful",
+    "titre": "",
+    "date": "Medieval, dates unknown",
+    "description": "Famous for being so cowardly he never ventured out of his house. Died when a Defensive Charm backfired and the roof fell in."
+  },
+  {
+    "nom": "Gaspard Shingleton",
+    "titre": "",
+    "date": "1959 - present",
+    "description": "Celebrated inventor of the Self-Stirring Cauldron."
+  },
+  {
+    "nom": "Gideon Crumb",
+    "titre": "",
+    "date": "1975 - present",
+    "description": "Plays bagpipes with the popular wizarding band The Weird Sisters."
+  },
+  {
+    "nom": "Gifford Ollerton",
+    "titre": "Giant-Slayer",
+    "date": "1390 - 1441",
+    "description": "Famous giant-slayer. Killed the giant Hengist of Upper Barnton, and became the town's local hero."
+  },
+  {
+    "nom": "Glanmore Peakes",
+    "titre": "",
+    "date": "1677 - 1761",
+    "description": "Famous slayer of the Sea Serpent of Cromer."
+  },
+  {
+    "nom": "Glenda Chittock",
+    "titre": "",
+    "date": "1964 - present",
+    "description": "Popular presenter of the W.W.N. (Wizarding Wireless Network) program Witching Hour."
+  },
+  {
+    "nom": "Glover Hipworth",
+    "titre": "",
+    "date": "1742 - 1805",
+    "description": "Inventor of the Pepperup Potion, cure for the common cold."
+  },
+  {
+    "nom": "Godric Gryffindor",
+    "titre": "Co-Founder of Hogwarts",
+    "date": "Medieval, dates unknown",
+    "description": "Co-founder of Hogwarts. Gave his name to one of the four Hogwarts houses."
+  },
+  {
+    "nom": "Goliath",
+    "titre": "",
+    "date": "Biblical, dates unknown.",
+    "description": "Mercenary giant used by the Philistines in their war with the Israelites. Was slain by a young boy with a slingshot."
+  },
+  {
+    "nom": "Gondoline Oliphant",
+    "titre": "",
+    "date": "1720 - 1799",
+    "description": "Famous for studies of life and habits of trolls. Clubbed to death in the Cotswolds while sketching."
+  },
+  {
+    "nom": "Gregory the Smarmy",
+    "titre": "",
+    "date": "Medieval, dates unknown",
+    "description": "Famous originator of Gregory's Unctuous Unction - a potion to persuade the drinker that the giver is their very best friend."
+  },
+  {
+    "nom": "Greta Catchlove",
+    "titre": "",
+    "date": "1960 - present",
+    "description": "Author of Charm Your Own Cheese."
+  },
+  {
+    "nom": "Gringott",
+    "titre": "",
+    "date": "",
+    "description": "Founder of Gringotts Wizarding Bank."
+  },
+  {
+    "nom": "Grogan Stump",
+    "titre": "",
+    "date": "1770 - 1884",
+    "description": "Popular Minister for Magic, appointed in 1811."
+  },
+  {
+    "nom": "Grunnion, Alberic",
+    "titre": "",
+    "date": "1803 - 1882",
+    "description": "Inventor of the Dungbomb."
+  },
+  {
+    "nom": "Gulliver Pokeby",
+    "titre": "",
+    "date": "1750 - 1839",
+    "description": "Expert on magical birds. First to identify meaning of Augurey song."
+  },
+  {
+    "nom": "Gunhilda of Gorsemoor",
+    "titre": "Healer",
+    "date": "1556 - 1639",
+    "description": "One-eyed, hump-backed witch famous for developing a cure for Dragon Pox. When she died, everyone who knew her felt great sorrow, for she was a talented and hardworking healer."
+  },
+  {
+    "nom": "Gwenog Jones",
+    "titre": "Quidditch Captain",
+    "date": "1968 - present",
+    "description": "Captain and Beater of only all-female national Quidditch team, the Holyhead Harpies. After a game she enjoys relaxing with friends, drinking Butterbeer, and listening to The Weird Sisters."
+  },
+  {
+    "nom": "Harry Potter",
+    "titre": "",
+    "date": "1980 - present",
+    "description": "The boy who lived."
+  },
+  {
+    "nom": "Havelock Sweeting",
+    "titre": "",
+    "date": "1634 - 1710",
+    "description": "Unicorn expert."
+  },
+  {
+    "nom": "Heathcote Barbary",
+    "titre": "",
+    "date": "1974 - present",
+    "description": "Plays rhythm guitar with the popular wizarding band The Weird Sisters."
+  },
+  {
+    "nom": "Helga Hufflepuff",
+    "titre": "Co-Founder of Hogwarts",
+    "date": "Medieval, dates unknown",
+    "description": "Co-founder of Hogwarts. Gave her name to one of the four Hogwarts houses. She brought people from different walks of life together to help build Hogwarts and was loved for her charming ways."
+  },
+  {
+    "nom": "Hengist of Upper Barnton",
+    "titre": "",
+    "date": "15th century.",
+    "description": "Giant killed by the famous giant-slayer Gifford Ollerton."
+  },
+  {
+    "nom": "Hengist of Woodcroft",
+    "titre": "Founder of Hogsmeade",
+    "date": "Medieval, dates unknown",
+    "description": "Driven away from his home by Muggle persecutors, Hengist is supposed to have settled in Scotland where he founded the village of Hogsmeade. Some say the Three Broomsticks Inn used to be his home."
+  },
+  {
+    "nom": "Herman Wintringham",
+    "titre": "",
+    "date": "1974 - present",
+    "description": "Plays lute with the popular wizarding band The Weird Sisters."
+  },
+  {
+    "nom": "Herpo the Foul",
+    "titre": "",
+    "date": "Ancient Greek, dates unknown",
+    "description": "First known creator of the Basilisk."
+  },
+  {
+    "nom": "Hesper Starkey",
+    "titre": "",
+    "date": "1881 - 1973",
+    "description": "Witch who studied the use of phases of the moon in potion making."
+  },
+  {
+    "nom": "Honoria Nutcombe",
+    "titre": "",
+    "date": "1665 - 1743",
+    "description": "Founded the Society for the Reformation of Hags."
+  },
+  {
+    "nom": "Ignatia Wildsmith",
+    "titre": "",
+    "date": "1227 - 1320",
+    "description": "The witch who invented Floo powder."
+  },
+  {
+    "nom": "Jocunda Sykes",
+    "titre": "",
+    "date": "1915 - present",
+    "description": "Famous for flying across the Atlantic on a broomstick - the first person to do so."
+  },
+  {
+    "nom": "Joscelind Wadcock",
+    "titre": "",
+    "date": "1911 - present",
+    "description": "Chaser for Puddlemere United Quidditch team."
+  },
+  {
+    "nom": "Justus Pilliwickle",
+    "titre": "",
+    "date": "1862 - 1953",
+    "description": "Celebrated head of the Department of Magical Law Enforcement."
+  },
+  {
+    "nom": "Kirley Duke",
+    "titre": "",
+    "date": "1971 - present",
+    "description": "Plays lead guitar with the popular wizarding band The Weird Sisters."
+  },
+  {
+    "nom": "Lady Carmilla Sanguina",
+    "titre": "",
+    "date": "1561-1757.",
+    "description": "Bathed in the blood of her victims to retain her youthful beauty."
+  },
+  {
+    "nom": "Laverne de Montmorency",
+    "titre": "",
+    "date": "1823 - 1893",
+    "description": "Inventor of many love potions."
+  },
+  {
+    "nom": "Leopoldina Smethwyck",
+    "titre": "",
+    "date": "1829 - 1910",
+    "description": "First British witch to referee a Quidditch match."
+  },
+  {
+    "nom": "Leticia Somnolens",
+    "titre": "",
+    "date": "Medieval, dates unknown.",
+    "description": "This spiteful hag was jealous of the king's daughter and caused her to prick her finger on a spindle tainted with a Draught of the Living Death. A young wizard who had smeared his lips with Wiggenweld potion kissed the princess and brought her out of her trance."
+  },
+  {
+    "nom": "Lord Stoddard Withers",
+    "titre": "Magical Creatures Specialist",
+    "date": "1642 - 1769",
+    "description": "Breeder of flying horses. He tried to create interest in a cross between Quidditch and polo played on flying horses, but the sport never became popular."
+  },
+  {
+    "nom": "Malodora Grymm",
+    "titre": "",
+    "date": "Medieval, dates unknown.",
+    "description": "Using a beautification potion to conceal her true form, she married a king and used a charmed mirror to reinforce her self-image. Became jealous of the most beautiful girl in the land and fed her a poisoned apple."
+  },
+  {
+    "nom": "Merlin",
+    "titre": "Charms Specialist",
+    "date": "Medieval, dates unknown",
+    "description": "Most famous wizard of all time. Sometimes known as the Prince of Enchanters. Part of the Court of King Arthur. (King Arthur once ruled the land that is now part of England.) Merlin wanted wizards to help Muggles, so he created the Order of Merlin. The Order made rules against using magic on Muggles."
+  },
+  {
+    "nom": "Merton Graves",
+    "titre": "",
+    "date": "1978 - present",
+    "description": "Plays cello with the popular wizarding band The Weird Sisters."
+  },
+  {
+    "nom": "Merwyn the Malicious",
+    "titre": "",
+    "date": "Medieval, dates unknown",
+    "description": "Credited with the invention of many unpleasant jinxes and hexes."
+  },
+  {
+    "nom": "Mirabella Plunkett",
+    "titre": "",
+    "date": "1839 - unknown",
+    "description": "Famous for falling in love with a merman in Loch Lomond while on vacation. When her family forbade her to marry him, she transfigured herself into a haddock and was never seen again."
+  },
+  {
+    "nom": "Miranda Goshawk",
+    "titre": "",
+    "date": "1921 - present",
+    "description": "Famous spell-book writer."
+  },
+  {
+    "nom": "Montague Knightley",
+    "titre": "",
+    "date": "1506 - 1588",
+    "description": "Wizard Chess Champion."
+  },
+  {
+    "nom": "Mopsus",
+    "titre": "",
+    "date": "Ancient Greek, dates unknown",
+    "description": "Ancient Greek soothsayer who vanquished the Seer Calchas in a contest of their powers."
+  },
+  {
+    "nom": "Morgan le Fay",
+    "titre": "Bird Animagus",
+    "date": "Medieval, dates unknown",
+    "description": "Also known as Morgana, she was King Arthur's half sister. She was a dark sorceress, Merlin's enemy and she affected many events during her time. She was the queen of the island of Avalon, and she had great skill as a healer."
+  },
+  {
+    "nom": "Morholt",
+    "titre": "",
+    "date": "Ancient Celtic, dates unknown.",
+    "description": "Gigantic brother of the King of Ireland. Wounded Tristan, the Celtic hero, with a poisoned sword when the latter tried to kill him."
+  },
+  {
+    "nom": "Mungo Bonham",
+    "titre": "",
+    "date": "1560 - 1659",
+    "description": "Famous wizard healer. Founded Saint Mungo's Hospital for Magical Maladies and Injuries."
+  },
+  {
+    "nom": "Musidora Barkwith",
+    "titre": "",
+    "date": "1520 - 1666",
+    "description": "Composer of the unfinished \"Wizarding Suite,\" which features an exploding tuba. Has been banned since its last performance in 1902, when it blew the roof out of Ackerley Town Hall."
+  },
+  {
+    "nom": "Myron Wagtail",
+    "titre": "",
+    "date": "1970 - present",
+    "description": "Lead singer of popular wizarding band The Weird Sisters."
+  },
+  {
+    "nom": "Newt Scamander",
+    "titre": "Author",
+    "date": "1897 - present",
+    "description": "Celebrated author of Fantastic Beasts and Where to Find Them. He is currently studying fire slugs in the Brazilian rainforest."
+  },
+  {
+    "nom": "Norvel Twonk",
+    "titre": "",
+    "date": "1888 - 1957",
+    "description": "Died saving a Muggle child from a runaway manticore."
+  },
+  {
+    "nom": "Old Mother Hubbard",
+    "titre": "",
+    "date": "Medieval, dates unknown.",
+    "description": "Lured stray animals into her home and starved them to death."
+  },
+  {
+    "nom": "Orsino Thruston",
+    "titre": "",
+    "date": "1976 - present",
+    "description": "Plays drums with the popular wizarding band The Weird Sisters."
+  },
+  {
+    "nom": "Oswald Beamish",
+    "titre": "",
+    "date": "1850 - 1932",
+    "description": "Pioneer of goblin rights."
+  },
+  {
+    "nom": "Paracelsus",
+    "titre": "Alchemist",
+    "date": "Dates Unknown",
+    "description": "Very little is known about this secretive wizard."
+  },
+  {
+    "nom": "Perpetua Fancourt",
+    "titre": "",
+    "date": "1900 - 1991",
+    "description": "Witch who invented the Lunascope."
+  },
+  {
+    "nom": "Professor Armando Dippet",
+    "titre": "",
+    "date": "",
+    "description": "Former Headmaster of Hogwarts, c. 1940."
+  },
+  {
+    "nom": "Queen Maeve",
+    "titre": "",
+    "date": "Medieval, dates unknown",
+    "description": "Witch who trained young sorcerers in Ireland prior to the establishment of Hogwarts."
+  },
+  {
+    "nom": "Quong Po",
+    "titre": "Magical Creatures Specialist",
+    "date": "1443 - 1539",
+    "description": "Born in China, Quong Po studied Chinese Fireball dragons, or Liondragons, and discovered the uses of their powdered eggs."
+  },
+  {
+    "nom": "Roderick Plumpton",
+    "titre": "",
+    "date": "1889 - 1987",
+    "description": "Seeker for England's Quidditch team. Holds British record for fastest capture of the Golden Snitch during game: three and a half seconds."
+  },
+  {
+    "nom": "Roland Kegg",
+    "titre": "",
+    "date": "1903 - present",
+    "description": "President of English Gobstones team."
+  },
+  {
+    "nom": "Rowena Ravenclaw",
+    "titre": "Co-Founder of Hogwarts",
+    "date": "Medieval, dates unknown",
+    "description": "Co-founder of Hogwarts. Gave her name to one of the four Hogwarts houses. It's thought that she came up with the ever-changing floor plan. She's best remembered for her intelligence and creativity."
+  },
+  {
+    "nom": "Sacharissa Tugwood",
+    "titre": "Inventor",
+    "date": "1874 - 1966",
+    "description": "Pioneer of Beautifying Potions. Discovered pimple-curing properties of Bubotuber pus. The words on her gravestone read, 'Thanks to Sacharissa Tugwood, the world is a more beautiful place.'"
+  },
+  {
+    "nom": "Salazar Slytherin",
+    "titre": "Co-Founder of Hogwarts",
+    "date": "Medieval, dates unknown",
+    "description": "Co-founder of Hogwarts. Gave his name to one of the four Hogwarts houses."
+  },
+  {
+    "nom": "Sir Herbert Varney",
+    "titre": "",
+    "date": "1858-1889.",
+    "description": "Short-lived (by undead standards) Victorian vampire who preyed upon women in London during the 1880s. Was subsequently captured and killed by a special squad from the Department for the Regulation and Control of Magical Creatures."
+  },
+  {
+    "nom": "Thaddeus Thurkell",
+    "titre": "",
+    "date": "1632 - 1692",
+    "description": "Famous for producing seven Squib sons and turning them all into hedgehogs in disgust."
+  },
+  {
+    "nom": "Tilly Toke",
+    "titre": "",
+    "date": "1903 - 1991",
+    "description": "Gained Order of Merlin, First Class, for saving Muggle lives during the Ilfracombe Incident of 1932, when a dragon swooped down on a beach full of sunbathers."
+  },
+  {
+    "nom": "Ug the Unreliable",
+    "titre": "",
+    "date": "",
+    "description": "Notorious goblin confidence trickster. Organized the infamous Demiguise Derby and absconded with the takings."
+  },
+  {
+    "nom": "Urg the Unclean",
+    "titre": "",
+    "date": "",
+    "description": "Rebel leader in the 18th century goblin rebellions."
+  },
+  {
+    "nom": "Uric the Oddball",
+    "titre": "Eccentric",
+    "date": "Medieval, dates unknown",
+    "description": "Highly eccentric wizard who is famed for, among other things, wearing a jellyfish for a hat. No one knows if he meant to be the weirdest wizard of the ages or if it just came naturally."
+  },
+  {
+    "nom": "Wendelin the Weird",
+    "titre": "",
+    "date": "Medieval, dates unknown",
+    "description": "Alleged to have enjoyed being burnt at the stake so much that she allowed herself to be captured over 47 times in various disguises (PA2). [Note: the Wizard Card gives the number of times she was captured as 14]."
+  },
+  {
+    "nom": "Wilfred Elphick",
+    "titre": "",
+    "date": "1112 - 1199",
+    "description": "First wizard to be gored by an African Erumpent."
+  },
+  {
+    "nom": "Xavier Rastrick",
+    "titre": "",
+    "date": "1750 - 1836",
+    "description": "Flamboyant wizard entertainer who vanished unexpectedly while tap dancing to a crowd of 300 in Painswick and was never seen again."
+  },
+  {
+    "nom": "Yardley Platt",
+    "titre": "",
+    "date": "1446 - 1557",
+    "description": "Serial goblin-killer."
+  }
+]
