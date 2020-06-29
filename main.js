@@ -33,7 +33,9 @@ bot.on('message', message => {
 	const command = bot.commands.get(commandName) ||
 		bot.commands.find(cmd => cmd.aliases && cmd.aliases.includes(commandName));
 	if (!command) return;
-
+	if (command.args && !args.length) {
+		return message.channel.send(`You didn't provide any arguments, ${message.author}!`);
+	}
 	//cooldowns
 	if (!cooldowns.has(command.name)) {
 		cooldowns.set(command.name, new Discord.Collection());

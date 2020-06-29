@@ -1,6 +1,7 @@
 const ChocoFrogs = require('../chocofrogs.json')
 const Canvas = require('canvas');
 const Discord = require('discord.js')
+const users = require('../users.json')
 
 module.exports = {
 	name: 'frogs',
@@ -55,9 +56,16 @@ module.exports = {
 				minFontSize: 9,
 				maxFontSize: 24
 			});
-
-		const attachment = new Discord.MessageAttachment(canvas.toBuffer(), 'carteChocoGrenouille.png');
-		// message.channel.send(`carte chocogrenouille `, attachment);
-		message.channel.send('Cool ! une carte chocogrenouille ' + cardName, attachment);
+		const username = message.author.username;
+		const found = users.find(element => element.name === username);
+		if (found === undefined) {
+			message.channel.send('tu n\'a pas de chocogrenouille, pour en manger il faut en acheter');
+		} else {
+			found.quantity--
+			message.channel.send('tu as mangé une chocogrenouille, tu n\'en a plus que ' + found.quantity);
+			const attachment = new Discord.MessageAttachment(canvas.toBuffer(), 'carteChocoGrenouille.png');
+			// message.channel.send(`carte chocogrenouille `, attachment);
+			message.channel.send('Cool ! une carte chocogrenouille ' + cardName, attachment);
+		}
 	}
 }
