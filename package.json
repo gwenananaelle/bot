@@ -1,0 +1,27 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "discord bot : harry potter themed, allows users to get a random chocolate frog card or a random jelly bean",
+  "main": "main.js",
+  "dependencies": {
+    "canvas-multiline-text": "^1.0.3",
+    "canvas": "^2.6.1",
+    "canvas-txt": "^2.0.9",
+    "discord.js": "^12.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gwenananaelle/bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gwenananaelle/bot/issues"
+  },
+  "homepage": "https://github.com/gwenananaelle/bot#readme"
+}
