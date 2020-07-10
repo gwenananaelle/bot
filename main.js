@@ -1,9 +1,18 @@
 const Discord = require('discord.js')
 const fs = require('fs');
+
+const isProd = process.env.STATUS.valueOf().localeCompare("prod");
+console.log(isProd);
 const {
 	prefix,
 	token
-} = require('./config.json');
+} =
+isProd === 0 ? {
+		prefix: process.env.PREFIX,
+		token: process.env.BOT_TOKEN
+	} :
+	require('./config.json');
+
 
 // add all commands from the files in commands
 const bot = new Discord.Client()
