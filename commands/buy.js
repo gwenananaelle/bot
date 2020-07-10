@@ -6,6 +6,7 @@ module.exports = {
 	cooldown: 5,
 	description: '',
 	args: true,
+	usage: '<number>',
 	execute(message, args) {
 		const username = message.author.username;
 		if (args[0] === 'foo') {

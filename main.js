@@ -2,7 +2,6 @@ const Discord = require('discord.js')
 const fs = require('fs');
 
 const isProd = process.env.STATUS.valueOf().localeCompare("prod");
-console.log(isProd);
 const {
 	prefix,
 	token
@@ -43,7 +42,13 @@ bot.on('message', message => {
 		bot.commands.find(cmd => cmd.aliases && cmd.aliases.includes(commandName));
 	if (!command) return;
 	if (command.args && !args.length) {
-		return message.channel.send(`You didn't provide any arguments, ${message.author}!`);
+		let reply = `You didn't provide any arguments, ${message.author}!`;
+
+		if (command.usage) {
+			reply += `\nThe proper usage would be: \`${prefix}${command.name} ${command.usage}\``;
+		}
+
+		return message.channel.send(reply);
 	}
 	//cooldowns
 	if (!cooldowns.has(command.name)) {
